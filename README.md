@@ -12,6 +12,8 @@ $ `bun run dev`
 
 - Consultation de l'application à l'URL <http://localhost:3000>
 
+![Hono Starter Kit](hono-starter-kit.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
